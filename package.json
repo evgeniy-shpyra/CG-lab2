@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node ./src --loadPath build/plugins --input file.png --output pmm",
+    "start": "ts-node ./src --loadPath build/plugins --input file.png --output ppm",
     "build": "tsc"
   },
   "keywords": [],
